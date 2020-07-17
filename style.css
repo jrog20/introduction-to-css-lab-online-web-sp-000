@@ -10,7 +10,8 @@ div {
   font-family: "Helvetica Neue"
   background: white
   padding: 30px
-  
+  #main-header font-size: 22px
+  .perspective-questions font-style: italic
 }
 
 /* ID selector to select the element with id 'main-header' */
